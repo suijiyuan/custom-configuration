@@ -1,0 +1,10 @@
+{
+  "[json]": { "editor.defaultFormatter": "esbenp.prettier-vscode" },
+  "editor.unicodeHighlight.nonBasicASCII": false,
+  "editor.wordWrap": "on",
+  "explorer.confirmDragAndDrop": false,
+  "files.autoSave": "afterDelay",
+  "security.workspace.trust.enabled": false,
+  "window.zoomLevel": 1,
+  "workbench.startupEditor": "none"
+}
