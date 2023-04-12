@@ -3,8 +3,14 @@
   "editor.unicodeHighlight.nonBasicASCII": false,
   "editor.wordWrap": "on",
   "explorer.confirmDragAndDrop": false,
+  "extensions.autoUpdate": false,
   "files.autoSave": "afterDelay",
+  "git.autofetch": true,
+  "git.confirmSync": false,
   "security.workspace.trust.enabled": false,
+  "update.enableWindowsBackgroundUpdates": false,
+  "update.mode": "none",
+  "update.showReleaseNotes": false,
   "window.zoomLevel": 1,
   "workbench.startupEditor": "none"
 }
