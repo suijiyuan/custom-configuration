@@ -1,5 +1,6 @@
 {
   "[json]": { "editor.defaultFormatter": "esbenp.prettier-vscode" },
+  "[python]": { "editor.formatOnType": true },
   "editor.unicodeHighlight.nonBasicASCII": false,
   "editor.wordWrap": "on",
   "explorer.confirmDragAndDrop": false,
