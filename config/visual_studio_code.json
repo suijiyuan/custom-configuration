@@ -5,6 +5,7 @@
   "editor.wordWrap": "on",
   "explorer.confirmDragAndDrop": false,
   "extensions.autoUpdate": false,
+  "files.autoGuessEncoding": true,
   "files.autoSave": "afterDelay",
   "git.autofetch": true,
   "git.confirmSync": false,
