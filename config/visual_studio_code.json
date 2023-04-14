@@ -1,4 +1,5 @@
 {
+  "[python]": { "editor.formatOnType": true },
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.unicodeHighlight.nonBasicASCII": false,
   "editor.wordWrap": "on",
