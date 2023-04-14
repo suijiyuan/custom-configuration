@@ -2,10 +2,11 @@ SonarSource.sonarlint-vscode
 Tyriar.sort-lines
 adpyke.codesnap
 christian-kohler.path-intellisense
+eamodio.gitlens
 esbenp.prettier-vscode
 formulahendry.auto-close-tag
 formulahendry.auto-rename-tag
-mhutchie.git-graph
+humao.rest-client
 ms-python.python
 ms-python.vscode-pylance
 ms-toolsai.jupyter
@@ -17,5 +18,6 @@ ms-vscode-remote.remote-ssh
 ms-vscode-remote.remote-ssh-edit
 ms-vscode.remote-explorer
 streetsidesoftware.code-spell-checker
+wix.vscode-import-cost
 xyz.plsql-language
 yzhang.markdown-all-in-one
