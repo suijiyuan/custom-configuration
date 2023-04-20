@@ -2,12 +2,13 @@ SonarSource.sonarlint-vscode
 Tyriar.sort-lines
 adpyke.codesnap
 christian-kohler.path-intellisense
+cweijan.vscode-typora
 eamodio.gitlens
 esbenp.prettier-vscode
-formulahendry.auto-close-tag
-formulahendry.auto-rename-tag
+formulahendry.auto-close-tag      
+formulahendry.auto-rename-tag     
 humao.rest-client
-ms-azuretools.vscode-docker
+ms-azuretools.vscode-docker       
 ms-python.python
 ms-python.vscode-pylance
 ms-toolsai.jupyter

@@ -1,8 +1,12 @@
 {
-  "[python]": { "editor.formatOnType": true },
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.python",
+    "editor.formatOnType": true
+  },
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.unicodeHighlight.nonBasicASCII": false,
   "editor.wordWrap": "on",
+  "explorer.confirmDelete": false,
   "explorer.confirmDragAndDrop": false,
   "extensions.autoUpdate": false,
   "files.autoGuessEncoding": true,
@@ -11,6 +15,7 @@
   "git.confirmSync": false,
   "git.enableSmartCommit": true,
   "http.proxy": "http://127.0.0.1:7890",
+  "remote.SSH.remotePlatform": { "45.77.177.40": "linux" },
   "security.workspace.trust.enabled": false,
   "terminal.integrated.defaultProfile.windows": "Command Prompt",
   "update.enableWindowsBackgroundUpdates": false,
