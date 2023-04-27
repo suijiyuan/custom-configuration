@@ -14,7 +14,7 @@
   "git.autofetch": true,
   "git.confirmSync": false,
   "git.enableSmartCommit": true,
-  "http.proxy": "http://127.0.0.1:7890",
+  "http.proxy": "socks5://127.0.0.1:7890",
   "remote.SSH.remotePlatform": { "45.77.177.40": "linux" },
   "security.workspace.trust.enabled": false,
   "terminal.integrated.defaultProfile.windows": "Command Prompt",
