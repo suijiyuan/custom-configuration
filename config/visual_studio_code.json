@@ -1,4 +1,5 @@
 {
+  "[java]": { "editor.defaultFormatter": "redhat.java" },
   "[python]": {
     "editor.defaultFormatter": "ms-python.python",
     "editor.formatOnType": true
@@ -21,7 +22,7 @@
   "update.enableWindowsBackgroundUpdates": false,
   "update.mode": "manual",
   "update.showReleaseNotes": false,
-  "window.zoomLevel": 1,
+  "window.zoomLevel": 2,
   "workbench.editor.untitled.hint": "hidden",
   "workbench.startupEditor": "none"
 }
