@@ -4,6 +4,7 @@
     "editor.defaultFormatter": "ms-python.python",
     "editor.formatOnType": true
   },
+  "diffEditor.ignoreTrimWhitespace": false,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.unicodeHighlight.nonBasicASCII": false,
   "editor.wordWrap": "on",
@@ -18,11 +19,10 @@
   "http.proxy": "socks5://127.0.0.1:7890",
   "http.proxyStrictSSL": false,
   "security.workspace.trust.enabled": false,
-  "terminal.integrated.defaultProfile.windows": "Command Prompt",
+  "terminal.integrated.defaultProfile.windows": "PowerShell",
   "update.enableWindowsBackgroundUpdates": false,
   "update.mode": "manual",
   "update.showReleaseNotes": false,
-  "window.zoomLevel": 2,
   "workbench.editor.untitled.hint": "hidden",
   "workbench.startupEditor": "none"
 }
