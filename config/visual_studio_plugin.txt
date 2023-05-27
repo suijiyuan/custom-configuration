@@ -2,8 +2,12 @@ SonarSource.sonarlint-vscode
 Tyriar.sort-lines
 VisualStudioExptTeam.intellicode-api-usage-examples
 VisualStudioExptTeam.vscodeintellicode
+Vue.volar
+Vue.vscode-typescript-vue-plugin
 adpyke.codesnap
+christian-kohler.npm-intellisense
 christian-kohler.path-intellisense
+dbaeumer.vscode-eslint
 dhruv.maven-dependency-explorer
 eamodio.gitlens
 esbenp.prettier-vscode
@@ -22,7 +26,9 @@ ms-toolsai.vscode-jupyter-slideshow
 ms-vscode-remote.remote-ssh
 ms-vscode-remote.remote-ssh-edit
 ms-vscode.remote-explorer
+octref.vetur
 redhat.java
+sdras.vue-vscode-snippets
 streetsidesoftware.code-spell-checker
 vscjava.vscode-java-debug
 vscjava.vscode-java-dependency
