@@ -21,10 +21,12 @@
   "http.proxyStrictSSL": false,
   "redhat.telemetry.enabled": false,
   "security.workspace.trust.enabled": false,
+  "sonarlint.pathToNodeExecutable": "C:\\DevTools\\node-18.16.0\\node.exe",
   "terminal.integrated.defaultProfile.windows": "PowerShell",
   "update.enableWindowsBackgroundUpdates": false,
   "update.mode": "manual",
   "update.showReleaseNotes": false,
+  "window.zoomLevel": 2,
   "workbench.editor.untitled.hint": "hidden",
   "workbench.startupEditor": "none"
 }
