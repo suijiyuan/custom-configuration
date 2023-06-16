@@ -27,6 +27,7 @@
   "update.mode": "manual",
   "update.showReleaseNotes": false,
   "window.zoomLevel": 2,
+  "workbench.colorTheme": "Visual Studio Dark",
   "workbench.editor.untitled.hint": "hidden",
   "workbench.startupEditor": "none"
 }
