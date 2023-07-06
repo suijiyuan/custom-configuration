@@ -1,4 +1,3 @@
-C-TEAM.thief-book
 SonarSource.sonarlint-vscode
 Tyriar.sort-lines
 VisualStudioExptTeam.intellicode-api-usage-examples
