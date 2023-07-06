@@ -1,3 +1,4 @@
+C-TEAM.thief-book
 SonarSource.sonarlint-vscode
 Tyriar.sort-lines
 VisualStudioExptTeam.intellicode-api-usage-examples
@@ -37,6 +38,7 @@ vscjava.vscode-java-dependency
 vscjava.vscode-java-pack
 vscjava.vscode-java-test
 vscjava.vscode-maven
+vscodevim.vim
 wix.vscode-import-cost
 xyz.plsql-language
 yzhang.markdown-all-in-one
